@@ -33,7 +33,4 @@ OpenWeatherMap API
 
 CSS 
 
----
 
-🔗 Live Demo
-[click here](https://khadija-oua.github.io/Weather-App/)
