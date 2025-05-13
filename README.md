@@ -1,8 +1,7 @@
-#🌦️ Weather App
------------------------------
+🌦️ Weather App
 A simple Weather App built with React JS that fetches and displays current weather data using the OpenWeatherMap API. It shows real-time weather information such as temperature, weather condition, humidity, and wind speed based on the city you enter.
 
-##Features
+🔍 Features
 🔎 Search weather by city, state, or country
 
 🌡️ Displays temperature, humidity, wind speed, and weather conditions
@@ -13,19 +12,19 @@ A simple Weather App built with React JS that fetches and displays current weath
 
 🌐 Deployed via GitHub Pages
 
-###🚀 How to Use
+🚀 How to Use
 Enter the name of a city, state, or country.
 
 The app fetches and displays accurate weather data in real-time.
 
-###🛠️ Tech Stack
+🛠️ Tech Stack
 React JS
 
 Vite
 
 OpenWeatherMap API
 
-CSS
+CSS 
 
-####🔗 Live Demo
+🔗 Live Demo
 [click here](https://khadija-oua.github.io/Weather-App/)
