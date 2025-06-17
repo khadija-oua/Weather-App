@@ -31,6 +31,10 @@ Vite
 
 OpenWeatherMap API
 
-CSS 
+CSS
 
+---
 
+## 🔗 Live Demo
+
+👉 [Click here](https://khadija-oua.github.io/Weather-App/)
